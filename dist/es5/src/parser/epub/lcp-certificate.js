@@ -1,0 +1,7 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.DUMMY_CRL = exports.CRL_URL_ALT = exports.CRL_URL = void 0;
+exports.CRL_URL = "http://crl.edrlab.telesec.de/rl/EDRLab_CA.crl";
+exports.CRL_URL_ALT = "http://crl.edrlab.telesec.de/rl/Readium_LCP_Root_CA.crl";
+exports.DUMMY_CRL = "-----BEGIN X509 CRL-----\nMIICrTCBljANBgkqhkiG9w0BAQQFADBnMQswCQYDVQQGEwJGUjEOMAwGA1UEBxMF\nUGFyaXMxDzANBgNVBAoTBkVEUkxhYjESMBAGA1UECxMJTENQIFRlc3RzMSMwIQYD\nVQQDExpFRFJMYWIgUmVhZGl1bSBMQ1AgdGVzdCBDQRcNMTcwOTI2MTM1NTE1WhcN\nMjcwOTI0MTM1NTE1WjANBgkqhkiG9w0BAQQFAAOCAgEA27f50xnlaKGUdqs6u6rD\nWsR75z+tZrH4J2aA5E9I/K5fNe20FftQZb6XNjVQTNvawoMW0q+Rh9dVjDnV5Cfw\nptchu738ZQr8iCOLQHvIM6wqQj7XwMqvyNaaeGMZxfRMGlx7T9DOwvtWFCc5X0ik\nYGPPV19CFf1cas8x9Y3LE8GmCtX9eUrotWLKRggG+qRTCri/SlaoicfzqhViiGeL\ndW8RpG/Q6ox+tLHti3fxOgZarMgMbRmUa6OTh8pnxrfnrdtD2PbwACvaEMCpNCZR\naSTMRmIxw8UUbUA/JxDIwyISGn3ZRgbFAglYzaX80rSQZr6e0bFlzHl1xZtZ0Raz\nGQWP9vvfH5ESp6FsD98g//VYigatoPz/EKU4cfP+1W/Zrr4jRSBFB37rxASXPBcx\nL8cerb9nnRbAEvIqxnR4e0ZkhMyqIrLUZ3Jva0fC30kdtp09/KJ22mXKBz85wUQa\n7ihiSz7pov0R9hpY93fvt++idHBECRNGOeBC4wRtGxpru8ZUa0/KFOD0HXHMQDwV\ncIa/72T0okStOqjIOcWflxl/eAvUXwtet9Ht3o9giSl6hAObAeleMJOB37Bq9ASf\nh4w7d5he8zqfsCGjaG1OVQNWVAGxQQViWVysfcJohny4PIVAc9KkjCFa/QrkNGjr\nkUiV/PFCwL66iiF666DrXLY=\n-----END X509 CRL-----";
+//# sourceMappingURL=lcp-certificate.js.map
